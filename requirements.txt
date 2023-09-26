@@ -1,5 +1,5 @@
 attrdict==2.0.0
-gevent==1.4.0
+gevent==23.9.1
 gevent-websocket==0.10.1
 h5py==2.6.0
 python-socketio==4.4.0
